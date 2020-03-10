@@ -1,4 +1,7 @@
 # Interview Tasks
+g++ driver.cpp
+./a.out 
+## For running script
 
 This repository contains instructions related to interview tasks
 
